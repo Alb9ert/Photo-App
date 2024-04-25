@@ -1,2 +1,2 @@
 # Photo-App
-My first react project.
+Yet to start
